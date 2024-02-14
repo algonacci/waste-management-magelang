@@ -1,0 +1,4 @@
+.venv
+.flaskenv
+broken
+__pycache__
