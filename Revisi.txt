@@ -1,0 +1,10 @@
+[15.08, 15/2/2024] thesionms: Haloo kak erik
+[15.10, 15/2/2024] thesionms: 
+- perbaiki jumlah rt dan rw (legend dan hasil) -> thesi
+- penjelasan code (baik clustering dan forecasting) -> thesi dan jemmy
+- perbaiki legend/scale untuk mudah dipahami -> thesi,jemmy
+- tambahan dari klien di dc (analisis dan trend dari  nomor polisi) -> jemmy
+
+kita bagi revisi ya jem, kamu perbaiki dahsboard yg kamu kerjakan, ak jug kaykny cukup banyak sih
+
+jgn lupa tambahan penjelasan di code untuk clustering(thesi) dan forecastingh(jemmy)+ tambahan klien yg d dc jem , beliau minta trend dari nomor polisi yak(jemmy)
