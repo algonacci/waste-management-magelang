@@ -38,6 +38,14 @@ def Mapping():
 def Prediction():
     return render_template('prediction.html')
 
+@app.route('/prediction/notebook')
+def Prediction_Notebook():
+    return render_template('prediction_notebook.html')
+
+@app.route('/plate')
+def Plate():
+    return render_template('plate.html')
+
 @app.errorhandler(Exception)
 def handle_error(error):
     return redirect('/')
