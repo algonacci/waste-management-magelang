@@ -35,7 +35,7 @@ def Mapping_Timbangan():
 
 @app.route('/mapping/SIPSN')
 def Mapping_SIPSN():
-    return render_template('mapping_sipsn.html')
+    return render_template('mapping_SIPSN.html')
 
 
 @app.route('/mapping')
