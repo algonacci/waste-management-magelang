@@ -1,1 +1,1 @@
-"# waste-management-magelang" 
+"# waste-management-magelang"
