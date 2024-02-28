@@ -37,6 +37,17 @@ def Mapping_Timbangan():
 def Mapping_SIPSN():
     return render_template('mapping_SIPSN.html')
 
+@app.route('/mapping/SIPSN/jenissampah')
+def Mapping_SIPSN_jenissampah():
+    return render_template('mapping_SIPSN_jenis.html')
+
+@app.route('/mapping/SIPSN/capaiansampah')
+def Mapping_SIPSN_capaiansampah():
+    return render_template('mapping_SIPSN_capaian.html')
+
+@app.route('/mapping/SIPSN/ruangterbukahijau')
+def Mapping_SIPSN_ruangterbukahijau():
+    return render_template('mapping_SIPSN_rth.html')
 
 @app.route('/mapping')
 def Mapping():
