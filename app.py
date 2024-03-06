@@ -63,10 +63,13 @@ def Prediction():
 def Prediction_Notebook():
     return render_template('prediction_notebook.html')
 
-
 @app.route('/plate')
 def Plate():
     return render_template('plate.html')
+
+@app.route('/preprocessing')
+def Preprocessing():
+    return render_template('preprocessing_notebook.html')
 
 
 if __name__ == '__main__':
